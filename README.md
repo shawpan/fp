@@ -13,7 +13,7 @@ Path for output file is given in FileOutputDatabaseHelper constructor (change th
 Program.cs file shows a sample usage
 
 Sample Usage
-
+```
 static void Main(string[] args)
         {
             IInputDatabaseHelper inDatabaseHelper = new FileInputDatabaseHelper("mushroom");
@@ -23,12 +23,9 @@ static void Main(string[] args)
                 inDatabaseHelper,outDatabaseHelper,0.74f);
             
         }        
+        ```
 Unit Test Project
 
 Unit Test Project FPTests is also included with a few unit tests implemented.
 
 
-
-
-fp
-==
