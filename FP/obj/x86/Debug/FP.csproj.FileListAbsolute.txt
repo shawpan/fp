@@ -1,0 +1,6 @@
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\FP\FP\bin\Debug\FP.exe.config
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\FP\FP\obj\x86\Debug\FP.exe
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\FP\FP\obj\x86\Debug\FP.pdb
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\FP\FP\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\FP\FP\bin\Debug\FP.exe
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\FP\FP\bin\Debug\FP.pdb

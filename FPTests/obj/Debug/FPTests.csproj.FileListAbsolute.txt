@@ -1,0 +1,10 @@
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\FP\FPTests\bin\Debug\FPTests.dll
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\FP\FPTests\bin\Debug\FPTests.pdb
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\FP\FPTests\bin\Debug\FP.exe
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\FP\FPTests\bin\Debug\FP.pdb
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\FP\FPTests\bin\Debug\FP_Accessor.exe
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\FP\FPTests\bin\Debug\FP_Accessor.pdb
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\FP\FPTests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\FP\FPTests\obj\Debug\FPTests.dll
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\FP\FPTests\obj\Debug\FPTests.pdb
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\FP\FPTests\bin\Debug\FPTests.dll.config

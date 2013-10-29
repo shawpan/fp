@@ -1,0 +1,5 @@
+c:\users\anonymous\documents\visual studio 2010\Projects\FP-growth\FP-growth\bin\Debug\FP-growth.exe
+c:\users\anonymous\documents\visual studio 2010\Projects\FP-growth\FP-growth\bin\Debug\FP-growth.pdb
+c:\users\anonymous\documents\visual studio 2010\Projects\FP-growth\FP-growth\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\anonymous\documents\visual studio 2010\Projects\FP-growth\FP-growth\obj\x86\Debug\FP-growth.exe
+c:\users\anonymous\documents\visual studio 2010\Projects\FP-growth\FP-growth\obj\x86\Debug\FP-growth.pdb
